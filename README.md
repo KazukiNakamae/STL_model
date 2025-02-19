@@ -5,6 +5,10 @@ This is one of the fine-tuned models, named RNAOffScan v1 (previously named as S
 
 The model data is available in Hugging Face: [https://huggingface.co/KazukiNakamae/STLmodel](https://huggingface.co/KazukiNakamae/STLmodel)
 
+#### Citation
+
+Nakamae *et al*. Risk Prediction of RNA Off-Targets of CRISPR Base Editors in Tissue-Specific Transcriptomes Using Language Models. *International Journal of Molecular Sciences* **2025**, 26(4), 1723.; [DOI: 10.3390/ijms26041723](https://doi.org/10.3390/ijms26041723)
+
 ---
 
 The RNAOffScan v1 can predict the RNA offtarget induced by cytosine base editors (CBEs).
