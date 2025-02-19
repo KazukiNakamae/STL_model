@@ -1,13 +1,13 @@
-# STL_model
+# RNAOffScan v1
 
-This is one of the fine-tuned models, named STL model, from [zhihan1996/DNABERT-2-117M
+This is one of the fine-tuned models, named RNAOffScan v1 (previously named as STL model), from [zhihan1996/DNABERT-2-117M
 ](https://huggingface.co/zhihan1996/DNABERT-2-117M).
 
 The model data is available in Hugging Face: [https://huggingface.co/KazukiNakamae/STLmodel](https://huggingface.co/KazukiNakamae/STLmodel)
 
 ---
 
-The STL model can predict the RNA offtarget induced by cytosine base editors (CBEs).
+The RNAOffScan v1 can predict the RNA offtarget induced by cytosine base editors (CBEs).
 
 Here is an example of using the model for RNA-off-target prediction.
 
